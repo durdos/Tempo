@@ -2,7 +2,7 @@
 
 Ton coach sportif : séances, charge d'entraînement, muscles travaillés, planning synchronisé avec ton agenda.
 
-**Ouvrir l'app :** https://durdos.github.io/tempo/
+**Ouvrir l'app :** https://durdos.github.io/Tempo/
 
 ## Comment ça marche
 
